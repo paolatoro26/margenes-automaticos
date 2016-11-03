@@ -1,1 +1,11 @@
-/* Escribe aqui tu CSS */
+div{width: 200px;
+	border:20px solid yellow;
+	text-align:center;
+	padding:20px 40px;
+	color:blue;
+
+}
+
+p.left{text-align: left}
+
+div.dos{margin-left: 500px;}
